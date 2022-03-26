@@ -1,0 +1,27 @@
+.head{
+    font-size: medium;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+    font-weight: bold;
+}
+.note{
+    font-size: small;
+    color: black;
+}
+.footer{
+    position: fixed;
+    text-align: center;
+    background: grey;
+    box-shadow: 2px 2px 2px rgb(36, 32, 32);
+    bottom: 0;
+    width: 100%;
+    color: white;
+    line-height: 3;
+}
+canvas{
+    border-radius: 5px;
+    border-color: orange;
+    border-style: dashed;
+    margin: 1px;
+}
